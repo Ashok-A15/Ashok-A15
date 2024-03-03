@@ -1,5 +1,5 @@
 ---
-[![](https://visitcount.itsvg.in/api?id=Ashok-A15&icon=2&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ashok-A15&icon=2&color=1052)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
  🧑‍💻I’m currently pursuing 2rd year computer science engineering<br><br>🌱 I’m currently learning data structures and algorithms, python<br><br>📫 How to reach me mrashok067@gmail.com
