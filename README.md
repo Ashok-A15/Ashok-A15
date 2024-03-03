@@ -1,3 +1,6 @@
+---
+[![](https://visitcount.itsvg.in/api?id=Ashok-A15&icon=2&color=8)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
  🧑‍💻I’m currently pursuing 2rd year computer science engineering<br><br>🌱 I’m currently learning data structures and algorithms, python<br><br>📫 How to reach me mrashok067@gmail.com
 
@@ -23,8 +26,5 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Ashok-A15&icon=2&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
