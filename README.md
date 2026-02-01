@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=Ashok-A15&icon=2&color=8)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
- 🧑‍💻I’m currently pursuing 3rd year computer science engineering<br><br>🌱 I’m currently learning data structures and algorithms, <br><br>📫 How to reach me mrashok067@gmail.com
+ 🧑‍💻I’m currently pursuing final year computer science engineering<br><br>🌱 I’m currently learning data structures and algorithms, <br><br>📫 How to reach me mrashok067@gmail.com
 
 
 ## 🌐 Socials:
