@@ -1,20 +1,30 @@
-## Hi, I'm Ashok 👋
+# Hi, I'm Ashok 👋
 
-I'm a Computer Science Engineering student passionate about building web applications and learning by doing.
+I'm a Computer Science Engineering student who enjoys building clean, scalable web applications and learning by working on real-world projects.
 
-### 💻 What I work with
-- JavaScript (ES6+)
-- React.js (Hooks, Components)
-- HTML, CSS
-- Basic Flask / Python
-- Git & GitHub
+## 🚀 What I do
+- Build frontend applications using **JavaScript and React**
+- Design and consume **RESTful APIs** using Flask
+- Focus on clean code, modular architecture, and performance
+- Use Git and GitHub for version control and collaboration
 
-### 🚀 What I'm doing now
-- Building React-based projects
-- Learning advanced React patterns and Next.js
-- Contributing to open-source projects
+## 🧠 Currently learning
+- Advanced React patterns
+- Next.js fundamentals
+- Data Structures & Algorithms
 
-### 📌 Find me here
+## 🛠 Tech Stack
+- **Frontend:** React, JavaScript (ES6+), HTML, CSS  
+- **Backend:** Python, Flask  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, REST APIs
+
+## 📌 Selected Projects
+- 💬 **Full-Stack Chat Application** – React + Flask  
+- 🩺 **Diabetic Retinopathy Detection System** – Flask + TensorFlow  
+- 🚚 **GoLorry** – Flutter-based logistics booking app  
+
+## 🌍 Connect with me
 - GitHub: https://github.com/Ashok-A15
 - LinkedIn: https://linkedin.com/in/mrashok5b772239
 - Email: mrashok067@gmail.com
