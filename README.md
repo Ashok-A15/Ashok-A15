@@ -1,71 +1,66 @@
-[![](https://visitcount.itsvg.in/api?id=Ashok-A15&icon=2&color=8)](https://visitcount.itsvg.in)
+<h1 align="center">Ashok</h1>
+<h3 align="center">Full Stack Developer • Building Scalable Web Applications</h3>
 
-# 💫 About Me:
- 🧑‍💻I’m currently pursuing final year computer science engineering<br><br>🌱 I’m currently learning data structures and algorithms, <br><br>📫 How to reach me mrashok067@gmail.com
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=22C55E&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Flask;Backend+%26+API+Development;Open+Source+Learner" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashok-A15&label=Profile+Views&color=16A34A&style=flat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashok-A15&theme=darkhub&no-frame=true&margin-w=5" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.ashok___15) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrashok5b772239) 
+<p align="center">
+  <a href="mailto:mrashok067@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-16A34A?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/mrashok5b772239">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
+---
 
-# 💻 Tech Stack:
+## 🧠 About
+- Full Stack Developer focused on scalable applications  
+- Strong in REST APIs & backend systems  
+- Experience building real-world projects  
+- Currently preparing for placements  
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white)
+## ⚙️ Tech Stack
 
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%230074C1.svg?style=for-the-badge&logo=database&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,flask,mysql,mongodb,git,linux" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+---
 
+## 🚀 Featured Work
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ashok-A15&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ashok-A15&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashok-A15&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔹 [Chat Application](https://github.com/Ashok-A15)
+- 🔹 [Diabetic Retinopathy Detection](https://github.com/Ashok-A15)
+- 🔹 [Music Recommender System](https://github.com/Ashok-A15)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ashok-A15&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 📊 GitHub Stats
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ashok-A15&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashok-A15&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Ashok-A15&theme=github-dark&hide_border=true" height="150"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
+## ⚡ Focus
+- Backend Development & API Optimization  
+- Open Source Contributions  
+- Building production-ready apps  
 
+---
 
-## 🌱 Open Source Contributions 
-- Actively contributing to:
-  - WordPress (wordpress-develop)  
-  - Gutenberg (WordPress block editor)  
-- Fixing issues, improving documentation, and learning real-world codebases  
-
-
-## 📌 Current Goals
-- 🔥 Contribute consistently to open source  
-- ⚡ Strengthen JavaScript & React  
-- 🐘 Learn PHP for WordPress development  
-- 💻 Build scalable full-stack applications  
-
-
-## 📈 GitHub Activity Goals
-- 📅 Daily commits (consistency focus)  
-- 📦 Meaningful contributions (not random repos)  
-- 🌟 Improve code quality & documentation  
+<p align="center">
+  <i>Clean code • Real-world projects • Continuous growth</i>
+</p>
